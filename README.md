@@ -1,8 +1,9 @@
-Password-Locker
-Author
+# Password-Locker
+## Author
+
 Kinyanjui Lucy Wambui.
 
-Description.
+## Description.
 
 This is a command line app that generates accounts
 It runs on terminal which allows users to save their passwords and credentials
@@ -12,7 +13,7 @@ clone the repo git clone https://github.com/Wambuilucy/password-locker-App.git
 Run in the terminal
 No web dependency is needed
 
-BDD
+## BDD
 
 Type in keyword cu to create user
 1. Creating a user
@@ -40,20 +41,20 @@ output:"list of accounts that are available in the application"
 
 If one enters a short code that is not offered in the options, An error message is printed out on the terminal ie Please use the short codes that are provided
 
-TECHNOLOGYS USED
+## TECHNOLOGYS USED
 
 python3.6
 
-KNOWN BUGS
+## KNOWN BUGS
 
 for now not known bugs
 
-Contacts
+## Contacts
 
 For more information,comment or questions reach me through:
 wambuilucie99@gmail.com
 
-Licence
+## Licence
 
 This project is Licensed under MIT.@2019 copyright kinyanjui Lucy Wambui.
 
